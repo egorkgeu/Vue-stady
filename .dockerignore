@@ -1,0 +1,9 @@
+# Ignore generated files
+**/.idea
+**/node_module
+**/.git
+**/Dockerfile
+**/Makefile
+**/requirements.txt
+**/.gitignore
+**/dist
